@@ -1,0 +1,14 @@
+.git
+.github
+node_modules
+**/.turbo
+**/.next
+.next
+*.log
+.gitignore
+.env
+.env.*
+Dockerfile*
+**/.DS_Store
+
+
